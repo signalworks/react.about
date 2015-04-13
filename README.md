@@ -44,8 +44,6 @@ https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 http://spoike.ghost.io/deconstructing-reactjss-flux  
 **Flux step by step**  
 http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/  
-**Deconstructing ReactJS's Flux**  
-http://spoike.ghost.io/deconstructing-reactjss-flux  
 
 ###RU
 
