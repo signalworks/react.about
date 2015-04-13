@@ -18,6 +18,8 @@ https://youtu.be/IVvHPPcl2TM
 https://youtu.be/DgVS-zXgMTk  
 (EN) **Thinking in Components: Building Powerful UIs in React.js**  
 https://youtu.be/xSGuffp0o6E  
+(EN) **Thinking in React, a step by step screencast tutorial**  
+https://youtu.be/mFEoarLnnqM  
 
 
 (RU) **React, или как начать жить проще, Александр Соловьев**  
