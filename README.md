@@ -29,3 +29,6 @@ https://youtu.be/YJNUK0EA_Jo
 
 (EN) **Learning React.js: Getting Started and Concepts**   https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
 
+
+(RU) **Разбираемся с Flux, реактивной архитектурой от facebook**  
+http://habrahabr.ru/post/246959  
