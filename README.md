@@ -16,6 +16,9 @@ https://youtu.be/8HkVHbJZeWY
 https://youtu.be/IVvHPPcl2TM  
 (EN) **Pete Hunt: React - Rethinking Best Practices (updated)** - JSConf.Asia 2013  
 https://youtu.be/DgVS-zXgMTk  
+(EN) **Thinking in Components: Building Powerful UIs in React.js**  
+https://youtu.be/xSGuffp0o6E  
+
 
 (RU) **React, или как начать жить проще, Александр Соловьев**  
 https://youtu.be/YJNUK0EA_Jo  
