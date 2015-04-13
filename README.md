@@ -1,3 +1,10 @@
+##OFFICIAL
+
+**React**  
+https://facebook.github.io/react/  
+**Flux**  
+https://facebook.github.io/flux/
+
 ##VIDEO
 
 (EN) **React.js Conf 2015 Keynote - Introducing React Native**  
@@ -28,12 +35,18 @@ https://youtu.be/YJNUK0EA_Jo
 
 ##ARTICLES
 
-(EN) **Learning React.js: Getting Started and Concepts**   https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
-(EN) **Deconstructing ReactJS's Flux**  
+###EN
+
+**Learning React.js: Getting Started and Concepts**  
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
+**Deconstructing ReactJS's Flux**  
 http://spoike.ghost.io/deconstructing-reactjss-flux  
+**Flux step by step**  
+http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/  
 
+###RU
 
-(RU) **Разбираемся с Flux, реактивной архитектурой от facebook**  
+**Разбираемся с Flux, реактивной архитектурой от facebook**  
 http://habrahabr.ru/post/246959  
-(RU) **RefluxJS — альтернативный взгляд на Flux архитектуру от Facebook**  
+**RefluxJS — альтернативный взгляд на Flux архитектуру от Facebook**  
 http://habrahabr.ru/post/250581  
