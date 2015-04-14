@@ -61,4 +61,6 @@ https://facebook.github.io/jest/
 ##MISC
 
 **Flow**  
-http://flowtype.org/
+http://flowtype.org/  
+**Babel**  
+https://babeljs.io/  
