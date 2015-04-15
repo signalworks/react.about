@@ -10,6 +10,8 @@ https://facebook.github.io/flux/
 ###EN
 **Hacker Way: Rethinking Web App Development at Facebook**  
 https://youtu.be/nYkdrAPrdcw?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v  
+**React.js Conf 2015 - react-router increases your productivity**  
+https://youtu.be/XZfvW1a8Xac  
 **React.js Conf 2015 Keynote - Introducing React Native**  
 https://youtu.be/KVZ-P-ZI6W4**  
 **React.js Conf 2015 - Full Stack Flux**  
